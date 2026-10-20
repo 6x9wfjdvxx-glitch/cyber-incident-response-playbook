@@ -13,7 +13,7 @@ Exemplos:
 - Ferramentas
 - Equipes
 
-- 
+  
 ## Fase 2 - Detection
 Identificação do incidente.
 
